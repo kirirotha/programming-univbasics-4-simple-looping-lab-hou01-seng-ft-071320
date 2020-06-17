@@ -34,6 +34,6 @@ def return_string_array(array)
     counter += 1 
     new_array.push(element)
   end
-  puts new_array
+  print new_array
 end
 
